@@ -7,3 +7,6 @@ the arduino measures the trash's weight, and sends back the points to the user.
 
 made in GPThon 2023 26-27/2, Israel, in 24 hours only.
 this project won the 3rd place.
+
+![Bark0d_a_minimalistic_logo_for_a_little_startup_company_called__b84b6874-49e2-4a94-a729-297fb43f49b0](https://user-images.githubusercontent.com/80260333/222523884-106078e5-5807-4f79-a794-215f487cecaa.png)
+
